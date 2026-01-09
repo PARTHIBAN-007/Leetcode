@@ -1,4 +1,4 @@
-# 🧠 LeetCode Quest
+#  LeetCode Quest
 
 A structured and progressive collection of **LeetCode problem solutions in Python**, organized as a learning journey across core **Data Structures & Algorithms** concepts.
 
